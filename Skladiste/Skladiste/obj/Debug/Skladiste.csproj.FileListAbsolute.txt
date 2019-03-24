@@ -1,0 +1,41 @@
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\bin\Debug\skladiste_baza.mdb
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\bin\Debug\Skladiste.exe.config
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\bin\Debug\Skladiste.exe
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\bin\Debug\Skladiste.pdb
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.csprojAssemblyReference.cache
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.FormStanjeSkladista.resources
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.FormLogin.resources
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.Properties.Resources.resources
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.GenerateResource.cache
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.CoreCompileInputs.cache
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.exe
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.pdb
+C:\Users\Leo Fogadic\source\repos\Skladiste\Skladiste\obj\Debug\Skladiste.FormDodaj.resources
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\bin\Debug\skladiste_baza.mdb
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\bin\Debug\Skladiste.exe.config
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\bin\Debug\Skladiste.exe
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\bin\Debug\Skladiste.pdb
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.csprojAssemblyReference.cache
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormDodaj.resources
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormStanjeSkladista.resources
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormLogin.resources
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.Properties.Resources.resources
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.GenerateResource.cache
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.CoreCompileInputs.cache
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.exe
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.pdb
+C:\Users\efgdlxx\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormObrisi.resources
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\bin\Debug\skladiste_baza.mdb
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\bin\Debug\Skladiste.exe.config
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\bin\Debug\Skladiste.exe
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\bin\Debug\Skladiste.pdb
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormDodaj.resources
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormObrisi.resources
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormStanjeSkladista.resources
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.FormLogin.resources
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.exe
+C:\Users\Korisnik\Desktop\Skladiste\Skladiste\obj\Debug\Skladiste.pdb
